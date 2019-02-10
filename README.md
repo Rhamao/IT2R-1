@@ -1,5 +1,5 @@
 # IT2R-1
-Project of an autonomous miniature car (University Institute of Technologie of Cachan)
+Project of an autonomous miniature car (University Institute of Technology of Cachan)
 
 Group all of the advances made during project hours.
 
