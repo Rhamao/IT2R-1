@@ -4,3 +4,5 @@ Project of an autonomous miniature car (University Institute of Technologie of C
 Group all of the advances made during project hours.
 
 The project is separated in subjects within pairs.
+
+Every codes are made on the µC ARM Keil NXP LPC1768 using either drivers included in Software Packs or drivers made by the teachers for the past semesters.
