@@ -3,4 +3,4 @@ Project of an autonomous miniature car (University Institute of Technologie of C
 
 Group all of the advances made during project hours.
 
-The project is separatated in subjects within pairs.
+The project is separated in subjects within pairs.
