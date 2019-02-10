@@ -9,4 +9,6 @@ Every codes are made on the µC ARM Keil NXP LPC1768 using either drivers includ
 
 --------------
 
-Ajoutez votre dossier avec un drag and drop ou bien en le sélectionnant (Indiquer la partie dans le nom du dossier)
+Ajoutez votre dossier avec un drag and drop ou bien en le sélectionnant. (Indiquer la partie dans le nom du dossier)
+
+Renseignez vous sur les "branches" quand vous voulez mettre à jour vos parties. (Cela permettra d'avoir des sauvegardes)
